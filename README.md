@@ -16,5 +16,12 @@
 # 🌟 Projects
 
 * [Project 1](https://apex.oracle.com/pls/apex/r/beyonce/spotify-analysis74651/home?session=6546818436368  ) - “Have you listened to the new album? I can't wait to hear this song in the club, it’s so good”. Music is a way people connect to one another, and there is a way to analytically know why a specific song connects to more listeners than others. In this project, we analyzed data from the music-streaming industry leader, Spotify. Our database application and analysis may be useful to artists, record labels, students, or average music lovers.    
-* [Project 2](project-2-url) - A brief description of Project 2
-* [Project 3](project-3-url) - A brief description of Project 3
+* [Project 2](https://github.com/BenOlson101/Loan-calculator4) - In this project, I made a loan calculator
+
+#Previous Classes
+*Digital Product Managment
+*Data Wrangling
+*Data Mining
+*Database Managment
+*Computational Thinking
+*Corporate Finace
