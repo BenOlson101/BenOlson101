@@ -1,33 +1,20 @@
 # Hi, I'm Ben Olson! 👋
 
-![Banner image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrand.uiowa.edu%2Flogo&psig=AOvVaw3w_92xbh1Ez6pY-spe669B&ust=1683131734200000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD1_7qI1_4CFQAAAAAdAAAAABAE)
+### I'm a developer, data enthusiast, and problem solver. I'm passionate about creating innovative solutions and learning new technologies.
 
-I'm a developer, data enthusiast, and problem solver. I'm passionate about creating innovative solutions and learning new technologies.
+# Connect with me 🌐
 
-## Connect with me 🌐
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ben-olson-) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://benolson.live/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/benolsonn)
 
-<a href="www.linkedin.com/in/ben-olson-" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Ben Olson LinkedIn" width="40" height="40" />
-</a>
-<a href="https://benolson.live/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" alt="Ben Olson's Personal Website" width="40" height="40" />
-</a>
-<a href="https://twitter.com/benolsonn" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Ben Olson Twitter" width="40" height="40" />
-</a>
+# 💼 Skills & Technologies
+![Python badge](https://img.shields.io/static/v1?message=Python&logo=R&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) ![Flask badge](https://img.shields.io/static/v1?message=Flask&logo=Flask&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge) ![R badge](https://img.shields.io/static/v1?message=R%20Programming&logo=R&labelColor=276DC3&color=276DC3&logoColor=white&label=%20&style=for-the-badge) ![R Studio badge](https://img.shields.io/static/v1?message=R%20Studio&logo=RStudio&labelColor=75AADB&color=75AADB&logoColor=white&label=%20&style=for-the-badge) ![Microsoft Azure badge](https://img.shields.io/static/v1?message=Azure&logo=Microsoft%20Azure&labelColor=0078D4&color=0078D4&logoColor=white&label=%20&style=for-the-badge) 
 
-## 💼 Skills & Technologies
-
-* Programming languages: Python, SQL, R.
-* Frameworks & libraries: React, TensorFlow, etc.
-* Tools & platforms: Git, Docker, AWS, etc.
-
-## 📚 Education
+# 📚 Education
 
 * BBA Finance, BBA Business Analyics and Information Systems, Univesity of Iowa
 
-## 🌟 Projects
+# 🌟 Projects
 
-* [Project 1](project-1-url) - A brief description of Project 1
+* [Project 1](https://apex.oracle.com/pls/apex/r/beyonce/spotify-analysis74651/home?session=6546818436368  ) - “Have you listened to the new album? I can't wait to hear this song in the club, it’s so good”. Music is a way people connect to one another, and there is a way to analytically know why a specific song connects to more listeners than others. In this project, we analyzed data from the music-streaming industry leader, Spotify. Our database application and analysis may be useful to artists, record labels, students, or average music lovers.    
 * [Project 2](project-2-url) - A brief description of Project 2
 * [Project 3](project-3-url) - A brief description of Project 3
